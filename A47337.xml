@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Lord Mayor and the Court of Aldermen, at Guild-hall Chappel on July the 16th, 1682 by Richard Kidder.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47337</idno><idno type="EEBO-CITATION">15619632</idno>
+  <idno type="VID">104198</idno>
+  <idno type="EEBO-PROQUEST">2240905248</idno>
+  
+            <idno type="STC">Wing K412</idno>
+            <idno type="STC">ESTC R36227</idno>
+            <idno type="OCLC">15619632</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Lord Mayor and the Court of Aldermen, at Guild-hall Chappel on July the 16th, 1682 by Richard Kidder.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[4], 34, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.H. for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertsisement: 1 p. at end.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Peter, 1st, III, 11 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104198:1"/>
+            <p>A SERMON Preached before the Lord Mayor, AND THE Court of ALDERMEN, AT <hi>GƲILD-HALL</hi> CHAPPEL, ON <hi>July</hi> the 16th. 1682.</p>
+            <p>By <hi>RICHARD KIDDER.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>H. H.</hi> for <hi>Walter Kettilby,</hi> at the <hi>Bishop's Head</hi> in St. <hi>Paul</hi>'s Church-Yard. 1682.</p>
+         </div>
+         <div type="court_order">
+            <pb facs="tcp:104198:2"/>
+            <opener>
+               <signed>Moore, Mayor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis xviii<seg rend="sup">o</seg>. die</hi> Julii 1682, <hi>anno{que} Regni Regis</hi> Caroli <hi>Secundi,</hi> An<g ref="char:EOLhyphen"/>gliae, <hi>&amp;c. xxxiv<seg rend="sup">o</seg>.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth desire Mr. <hi>Kidder,</hi> to Print his Sermon preached at the <hi>Guild-Hall</hi> Chap<g ref="char:EOLhyphen"/>pel on Sunday last, before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104198:2"/>
+            <head>
+               <hi>To the Right Honourable Sr.</hi> John Moore <hi>Lord Mayor, and the Court of Aldermen, of the City of</hi> London.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THat the sincere practice of Christian Re<g ref="char:EOLhyphen"/>ligion does very much tend to the peace and happiness of this lower World, I have in some measure represented in the following discourse. What ever other defects may be found in it, I am sure it proceeded foom a sincere in<g ref="char:EOLhyphen"/>tention, and was designed to an excellent End. Nor can it be thought unseasonable to press men to Peace and good will at such a time as this. Ʋp<g ref="char:EOLhyphen"/>on these Considerations I am very little Concer<g ref="char:EOLhyphen"/>ned at the censures of angry and peevish men.</p>
+            <p>That I have made it publick is in me intirely an act of obedience. Nothing less than your Com<g ref="char:EOLhyphen"/>mands should have prevailed with me to do that. If it should gain its End, as it would be matter of unspeakable joy to me, so I should have great
+<pb facs="tcp:104198:3"/>Cause to Bless the Holy name of God, who does great things by the most inconsiderable instru<g ref="char:EOLhyphen"/>ments.</p>
+            <p>I am bold to prefix your Lordships name, and expose these following papers under your Patro<g ref="char:EOLhyphen"/>nage: And shall not detain your Lordship any far<g ref="char:EOLhyphen"/>ther than to tell you that I am</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <lb/>
+               <signed>Your Lordships most<lb/> humble and most<lb/> obliged servant,<lb/>
+                  <hi>Rich. Kidder.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:104198:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Pet. 3.</hi> Ver. <hi>11.</hi>
+                  </bibl>
+                  <p>Let him seek peace and Ensue it.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E are often heard to complain of the evil of the times and days in which we live. And tho' these complaints are not without a Cause, yet they are generally without fruit. And it is an argu<g ref="char:EOLhyphen"/>ment of great folly to be always finding a fault, and not to attempt to rectifie it. St. <hi>Peter</hi> tells us how we may contribute towards the removing those evils under which we groan; and procure to our selves a more easie and prosperous passage through this troublesome World. And that he does in the Words I have now read, and those which immediatly goe before them. <hi>He that will love life, and see good days:</hi> That is, he who desires a comfortable and happy passage through this World: <hi>Let him refrain his tongue from Evil, and his lips that they speak no
+<pb n="2" facs="tcp:104198:4"/>Guile: Let him eschew evil and do good, let him seek peace and ensue it.</hi> Three things he commends to our Care and practice to this purpose, as the great and known remedies of the evils of this present life. And they are these,</p>
+            <p>First, The Government of our tongues. <hi>Let him refrain his tongue from Evil, and his lips that they speak no Guile.</hi> Innumerable are the Evils which flow from an unbridled tongue:
+<note place="margin">
+                  <hi>Jam.</hi> 3.6, 8.</note>
+               <hi>It is a fire, a World of iniquity: It de<g ref="char:EOLhyphen"/>fileth the whole body and setteth on fire the course of nature: It is an unruly evil full of deadly poison.</hi> This little member hath driven peace from the Earth, it hath been the plague of Kingdoms and Societies, and brought Con<g ref="char:EOLhyphen"/>fusion and Death upon Mankind. A very great share of the miseries of humane life are owing to the intemperance of an evil tongue.
+<note place="margin">
+                  <hi>Maimou:</hi> H. Death. <hi>c.</hi> 7.</note> Three sins, the Wise men among the <hi>Jews</hi> tell us, <hi>are punished in this life and exclude men from the next, Idolatry, uncleanness and Murder; and an evil tongue is no less an evil than all these put together.</hi>
+            </p>
+            <p>Secondly, The amendment of our lives and manners: <hi>Let him eschew evil and do good.</hi> If we follow our troubles home we shall find they are generally owing to our own pro<g ref="char:EOLhyphen"/>faneness
+<pb n="3" facs="tcp:104198:4"/>and wickedness. And when we complain of evils, we may soon find that they are of our own procuring. They are our Lusts and Contempt of God and his ho<g ref="char:EOLhyphen"/>ly Laws which trouble us.
+<note place="margin">
+                  <hi>v.</hi> 13.</note>
+               <hi>Who is he that will harm you if ye be followers of that which is good?</hi> It were very easie to demonstrate, that all our smarter evils are but the effect of our own profaneness or hypocrisy. Nothing lays a foundation for our temporal happiness like true piety and a constant Care of doing well: And because we make not this our Care we are left to conflict with many of the evils of life, which this course would have prevented.</p>
+            <p>Thirdly, A very diligent pursuit of peace. <hi>Let him seek peace and ensue it.</hi> I shall choose to insist on this; for I have not time to speak to the two former at large; And shall there<g ref="char:EOLhyphen"/>fore content my self to reflect something upon those as my discourse upon this last shall give me an opportunity.</p>
+            <p>I cannot but observe, before I proceed any farther, that this duty is pressed hard upon us, in words that are very Emphatical. It is not enough that we are inclined to peace, and of a disposition that is peaceable. We are not only obliged to imbrace peace when it offers it self to us, but we must pursue it
+<pb n="4" facs="tcp:104198:5"/>and fetch it back when it seems to fly from us.
+<note place="margin">
+                  <hi>Heb.</hi> 12.14.</note> We must <hi>follow peace:</hi> nor is it a little care to retrive it will serve our turn, we must not only <hi>seek peace</hi> but <hi>ensue it.</hi> 'Tis not enough that we heartily wish for it,
+<note place="margin">1 <hi>Thess.</hi> 4.11.</note> but we must cast about and carefully project how we may preserve and procure it; we must <hi>study to be quiet.</hi> And when it is hard to live peaceably (as it is with some froward men) and when it is not possible to do it (for it is not always so) yet <hi>if it be possible</hi> (and so it oftner is than we are aware of) or howe<g ref="char:EOLhyphen"/>ver,
+<note place="margin">
+                  <hi>Rom.</hi> 12.18.</note> if it be not, yet still as <hi>much as lyeth in us</hi> we must <hi>live</hi> peaceably with all men.</p>
+            <p>For the better speaking to the words I have read, I shall,</p>
+            <p>First, Shew what we are obliged to do to<g ref="char:EOLhyphen"/>ward preserving and retriving of peace; in compliance with the exhortation which my text lays before us of seeking and ensuing peace.</p>
+            <p>Secondly, I shall represent to you some of the advantages of it, as it hath a tendency toward the happiness of our present State.</p>
+            <p>Thirdly, I shall consider the use and ap<g ref="char:EOLhyphen"/>plication of the whole.
+<note place="margin">1st.</note>
+            </p>
+            <p>I shall shew what we are obliged to do in compliance with the direction in my text
+<pb n="5" facs="tcp:104198:5"/>of seeking peace and ensuing it. I shall con<g ref="char:EOLhyphen"/>sider the duty of men in their private Capa<g ref="char:EOLhyphen"/>cities, and not take upon me to give advice to our Superiours, from whom we receive our Laws.</p>
+            <p>Nor shall I at this time separately speak to peace as it relates to Civil, and as it relates to Religious and Ecclesiastical Societies and Concerns. For tho these are of a distinct consideration yet my time will not allow me to handle them apart. And therefore, I shall speak to those particulars which relate to both these.</p>
+            <p>Nor shall I offer any thing to this purpose but what is confessedly our Duty and what (if we will put in practice) will certainly pre<g ref="char:EOLhyphen"/>serve peace where it is, and will call it back where it is wanting.</p>
+            <p>Having premised these things, I shall shew what we are obliged to do in compliance with the direction in my text <hi>of seeking peace and ensuing it,</hi> in the following par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p n="1">(1.) We are strictly obliged in order to the preserving and retriving of peace to reform our hearts and lives. We must subdue our lusts and bridle our passions, and govern our tongues, and conduct our selves by the Holy
+<pb n="6" facs="tcp:104198:6"/>Laws of our Religion.
+<note place="margin">
+                  <hi>James</hi> 4.1.</note>
+               <hi>From whence come Wars and Fightings among you? Come they not hence, Even of your lusts, that War in your members?</hi> nothing contributes more to the peace of Societies than the strict practice of our Duty, and conforming our selves to the precepts of Religion, I do not mean in points that are controverted, but in such as are plain and owned to be our duty: Such as these, viz.
+<note place="margin">
+                  <hi>Jam.</hi> 1.26.</note>
+               <hi>the governing our Tongues,</hi> without which our Religion is but a vain pretence. And we must so far govern them too,
+<note place="margin">
+                  <hi>Tit.</hi> 3.1, 2.</note> as to speak evil of no man.</p>
+            <p>The being cloathed with humility and meekness: Tis our pride that makes us quar<g ref="char:EOLhyphen"/>relsome and contentious.
+<note place="margin">
+                  <hi>Prov.</hi> 13.10.28.5.</note>
+               <hi>Only by pride com<g ref="char:EOLhyphen"/>eth contention:</hi> And <hi>he that is of a proud heart stirreth up strife.</hi> It's the <hi>meekness of Wisdom</hi> which St <hi>James</hi> opposeth to bitter envying and <hi>strife in our hearts.</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 3.13, 14.</note> Our Religion com<g ref="char:EOLhyphen"/>mends to us the profoundest humility, the greatest modesty and meekness, and gentle<g ref="char:EOLhyphen"/>ness imaginable. It puts us upon avoiding vain-glory as that which tends to strife and debate. And this the Apostle presseth us to with great Vehemence: His words are very moving. <hi>If there be therefore any consolation in Christ, any comfort of Love, if any fellow<g ref="char:EOLhyphen"/>ship
+<pb n="7" facs="tcp:104198:6"/>of the Spirit, if any Bowels and Mercies; Fulfill ye my joy, that ye be like minded, having the same love, being of one accord, of one mind. Let nothing be done through strife or vain-glory, but in lowliness of mind let each esteem other better than themselves.</hi>
+            </p>
+            <p>Again the taking great care that we do no wrong,
+<note place="margin">1 <hi>Cor.</hi> 6.7. <hi>Eph.</hi> 4.32.</note> and the being ready to make amends when we have been surprized into it, and to be reconciled to our Brother who hath wronged us, are plain precepts of our Re<g ref="char:EOLhyphen"/>ligion, and do manifestly tend to the peace of the World.</p>
+            <p>And so do those other precepts also where<g ref="char:EOLhyphen"/>by we are obliged to abide in our calling,
+<note place="margin">1 <hi>Cor.</hi> 7.20. 1 <hi>Thess.</hi> 4.11. 2 <hi>Thess.</hi> 3.11, 12.</note> to mind our own business, and avoid the being busy-bodies in other mens matters. We have our callings to mind, our families to govern (and to account for) our hearts and tempers to reform, and Souls to save, which we too often neglect when in the mean time we mingle our selves in for<g ref="char:EOLhyphen"/>raign matters which are not like to turn to any good account.</p>
+            <p>We strive with one another because we neglect the practice of our Religion: We are divided because we are carnal. We neg<g ref="char:EOLhyphen"/>lect our God; and hence it is that we are left
+<pb n="8" facs="tcp:104198:7"/>to contrast with quarrelsome and unreaso<g ref="char:EOLhyphen"/>nable Men. 'Tis an excellent saying of the son of <hi>Sirach.
+<note place="margin">
+                     <hi>Ecclus.</hi> 6.17.</note> Whoso feareth the Lord shall direct his Friendship aright. For as he is so shall his Neighbour be also.</hi> We are chastised by one another for our neglect of our duty to God.
+<note place="margin">
+                  <hi>Ps.</hi> 18.26.</note>
+               <hi>With the froward God will shew himself froward,</hi> or <hi>wrestle,</hi> as our marginal reading hath it. God suffers us to wrestle with fro<g ref="char:EOLhyphen"/>ward men because we have been negligent of our duty. Our quarrelling with each other is an Argument that we are not at peace with God.
+<note place="margin">
+                  <hi>Prov.</hi> 12.7.</note>
+               <hi>When a mans ways please the Lord he makes his Enemies to be at peace with him. So<g ref="char:EOLhyphen"/>lomon</hi> of all Men living had the greatest Ex<g ref="char:EOLhyphen"/>perience of the truth of these words. His very name implyes <hi>peace,</hi> and he was chosen to build an house for God because he should enjoy peace, and <hi>David</hi> was refused because he was a man of War. He built an house for God and enjoyed great peace. But his peace lasted no longer than his ways pleased God.
+<note place="margin">1 <hi>Kings</hi> 11.1, 4, 6, 14, 23, 26.</note>
+               <hi>But</hi> Solomon <hi>forsook the Lord. He lo<g ref="char:EOLhyphen"/>ved strange Women and did evil,</hi> and then it follows, <hi>the Lord stirred up an Adversary to</hi> Solomon, Adad <hi>the</hi> Edomite, <hi>and</hi> Rezon, <hi>the</hi> son of Eliadah, <hi>and</hi> Jeroboam <hi>the</hi> son of Nebat. <hi>David</hi> was very successfull till he
+<pb n="9" facs="tcp:104198:7"/>slew <hi>Ʋriah</hi> and took unto him his Wife; after that his own Subjects and his own Son rebel against him, and the Prophet tells him plain<g ref="char:EOLhyphen"/>ly:
+<note place="margin">2 <hi>Sam.</hi> 12.10.</note>
+               <hi>Now therefore the sword shall never depart from thine House, because thou hast despised me.</hi> The People of the <hi>Jews</hi> while they served God were at peace with their Neighbours, but when they departed from their God they were soon afflicted by their evil Neighbours.</p>
+            <p n="2">(2.) <note place="margin">
+                  <hi>Rom.</hi> 13.1. 1 <hi>Pet.</hi> 11.13.</note> In order to peace we are strictly obli<g ref="char:EOLhyphen"/>ged to obey our Superiours as far as lawfully we can. That is, we must obey them when they command what God hath not forbid<g ref="char:EOLhyphen"/>den, and where they forbid what he hath not commanded. In other cases we must o<g ref="char:EOLhyphen"/>bey God rather than Men. A ready com<g ref="char:EOLhyphen"/>plyance with this rule doth very much tend to peace. We ought to obey our Superiours where we can do it without a wrong to our Conscience. And where we cannot in every thing obey yet in that case we ought to go as far as we can. If we do not this we are un<g ref="char:EOLhyphen"/>governable and obstinate and do not as much as lies in us towards the living peaceably with all Men. It is just and reasonable that we do what we can; 'tis what we may do and what we must. 'Tis no matter what men call this compliance while we do our Duty.
+<pb n="10" facs="tcp:104198:8"/>We are safe in that obedience which God hath not forbid: where God hath not forbid, our Su<g ref="char:EOLhyphen"/>periour may command and we must obey. We are to judge not what will be the Event of this compliance but of the lawfulness of it first, and then of its tendency to the gaining of Peace: That which was lawful and indifferent before, becomes our duty when once it is comman<g ref="char:EOLhyphen"/>ded by our lawful Superiour. And then we must obey not only for wrath but also for Conscience sake. The Question, in which we are concerned, is not what is most ex<g ref="char:EOLhyphen"/>pedient to be injoyned (this belongs to our Governours to consider) but what is lawful on our part to submit unto. The living up to this rule would have kept us from our ve<g ref="char:EOLhyphen"/>ry mischievous extreams. Those men that think some things amiss ought not therefore in all things to forsake the Communion of our Church. And those men who some<g ref="char:EOLhyphen"/>times communicate with us, to save their Secular concerns, will be without excuse if they do at other times with-draw from us without any just cause. Tho' somethings should be amiss among us, yet will not this justify a separation. We need not Erect Calves at <hi>Dan</hi> and <hi>Bethel,</hi> because we deem some thing amiss in the worship of the true
+<pb n="11" facs="tcp:104198:8"/>God. Our separation cannot be justifiable, unless it be necessary: And when we can with a safe Conscience, in great measure con<g ref="char:EOLhyphen"/>tinue in Communion with a Church, it will be hard to understand how a total separati<g ref="char:EOLhyphen"/>on can be justified. Let us not deceive our selves, God is not mocked; We shall ere long appear before an impartial Judge, who tho he be ready to pardon our mistakes, will yet punish our frowardness and perversness.</p>
+            <p n="3">(3.) <note place="margin">
+                  <hi>Rom.</hi> 14.3. <hi>v.</hi> 10.13.</note> In those things in which we dissent from others we are to judge for our selves only, and not for others. <hi>Let not him that eateth not judge him that eateth: why doest thou judge thy Brother, or why doest thou set at nought thy Brother? Hast thou faith? have it to thy self, before God.</hi> It is unreasonable in matters of doubt and question that I should judge for my self, and for others too. If other men are fallable, so am I. And tho I must not go against my own Consci<g ref="char:EOLhyphen"/>ence, yet I ought not to make that the com<g ref="char:EOLhyphen"/>mon Standard of other mens. The practice of this rule would in great measure prevent that censuring and detraction which is a sin of an high nature, and which greatly obtains among us.</p>
+            <p>We may in modesty suppose that our
+<pb n="12" facs="tcp:104198:9"/>Brother, from whom we dissent, may be better informed than we are. Truth is not always found among the most confident. There are many that boast they have it, who carry a lie in their right hand. It is a true observation (and grounded upon the Holy Scripture) that the <hi>weaker any Christian is the more prone he is to censure and judge another.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 14.3.</note>
+            </p>
+            <p>'Tis enough that we judge for our selves, and <hi>happy is he that condemneth not himself in that thing which he alloweth.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 22.</note> Our Conscience is our own guide but not another mans. And it is but our <hi>guide</hi> at best, for it is not our <hi>rule.</hi> It is often misinformed and mis<g ref="char:EOLhyphen"/>leads us, and can have no just plea to be the conductor of Mankind. It is very fit that when we dissent we should do it modestly, and that when we judge for our selves, we should not prescribe to others also.</p>
+            <p n="4">(4.) That we be very diligent in the search after truth, as well as Sincere lovers of it. Every Sincere and good man must needs be a lover of truth.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arrian. Epi<g ref="char:EOLhyphen"/>ctet. L.</hi> 1. <hi>C.</hi> 28.</note> The Heathen, could say that <hi>the Soul of man is not willingly deprived of the truth.</hi> And certainly every good man thinks himself obliged to inform himself a right. If he do this he will not speak evil of things which he hath not consi<g ref="char:EOLhyphen"/>dered,
+<pb n="13" facs="tcp:104198:9"/>but use all diligence to get himself rightly informed. He will be the more ob<g ref="char:EOLhyphen"/>liged to do this, because <hi>Error stalks about the World in the Mantle of truth,</hi> and is many times dressed up like it:
+<note place="margin">
+                  <hi>non enim sumus ii quibus nihil verum esse vi<g ref="char:EOLhyphen"/>deatur; sed ii qui omnibus veris falsa quaedam adjun<g ref="char:EOLhyphen"/>cta esse dica<g ref="char:EOLhyphen"/>mus, tantâ similitudine ut in iis nulla insit certa ju<g ref="char:EOLhyphen"/>dicandi &amp; as<g ref="char:EOLhyphen"/>sentiendi nota.</hi> Cicer. <hi>de nat. Deorum. l.</hi> 1.</note> In many cases it requires great pains and skill to know one from the other, and therefore we must lay aside prejudice, and all worldly interest, be possessed of great simplicity of Spirit, and of the travellers indifferency; avoid the study of Parties, and Faction: Be very humble and modest and diligent in the use of means, and very fervent in our prayers to God. If we do thus we are in the way of truth and peace also.</p>
+            <p n="5">(5.) That we preserve in our minds a difference between the great things of Re<g ref="char:EOLhyphen"/>ligion and the smaller things relating to it, and let them have a proportionable regard and esteem. There are some things which are the greater things of the Law which we ought to be greatly concerned for, such are, <hi>Judgment, Mercy</hi> and <hi>Faith:</hi> or,
+<note place="margin">
+                  <hi>Matt.</hi> 23.23. <hi>Luke</hi> 11.42.</note> as St. <hi>Luke</hi> hath it, <hi>Judgment</hi> and the <hi>Love of God.</hi> There are other things, which we generally quarrel about, that are not the essentials of Religion, but rather the skirts and fringes of it. We ought not to have a like regard for
+<pb n="14" facs="tcp:104198:10"/>doubtful Opinions as for the Precepts of Christ and Articles of Faith. The Fates of an Empire, and of the Church do not de<g ref="char:EOLhyphen"/>pend upon little circumstances.
+<note place="margin">
+                  <hi>Rom.</hi> 14.17, 18.</note>
+               <hi>The King<g ref="char:EOLhyphen"/>dom of God is not in Meats and Drinks, but righteousness and peace, and joy in the Holy Ghost. He that in these things serveth Christ is acceptable to God and approved of Men.</hi> The Evil of the smaller things about which we contend, lies more in our opinion than in the things themselves. <hi>I know and am per<g ref="char:EOLhyphen"/>swaded by the Lord Jesus Christ, that there is nothing unclean of it self, but to him that esteemeth any thing to be unclean to him it is unclean.</hi> 'Tis a mean thing to contend a<g ref="char:EOLhyphen"/>bout small things with a great and dispro<g ref="char:EOLhyphen"/>portionate Zeal. There happened a bitter dispute between two learned men of the last Age concerning the matter or Stuff of a part of the Priests Garment under the Law of <hi>Moses:</hi> The contention was great but the ground of it very trifling: Like the differ<g ref="char:EOLhyphen"/>ences between the School of <hi>Hillel</hi> and <hi>Sham<g ref="char:EOLhyphen"/>mai,</hi>
+               <note place="margin">
+                  <hi>Beracoth c.</hi> 8.</note> who dissented from each other concern<g ref="char:EOLhyphen"/>ing the precedency of their Blessing God for the day or for the Wine; of their washing their hands, and mingling their Cup; nay, and about the place where they should lay
+<pb n="15" facs="tcp:104198:10"/>the Napkin with which they had wiped their hands too, whether upon a Table or a Cushion. They contended for trifles and neglected the weightier things of the Law; and so do we also, we quarrel about trifles and neglect our unquestionable duty to God and Man. And seem to have but little re<g ref="char:EOLhyphen"/>gard to those things in which our practice is mainly concerned.</p>
+            <p n="6">(6.) That we endeavour to be exemplary in all those things in which we are all agreed. We shall find that these things are many and of great Weight, and that what we differ about bears no proportion to those things in which we all agree. That we ought to love God with our whole heart, to be Loyal to our Prince, merciful to our poor Bre<g ref="char:EOLhyphen"/>thren, just to all men, humble and modest, <hi>&amp;c.</hi> we are all agreed is our duty: And cer<g ref="char:EOLhyphen"/>tainly if these things were our practice and our study, we should consult our own peace and that of the community. They are very insincere men, who are Enemies to all Reli<g ref="char:EOLhyphen"/>gion upon a pretence that they know not what to choose, because of the Various dis<g ref="char:EOLhyphen"/>sentions about it, when in the mean time they neglect the practice of those things in which all sides are agreed.
+<note place="margin">
+                  <hi>Philip.</hi> 3.16.</note>
+               <hi>Whereto we have
+<pb n="16" facs="tcp:104198:11"/>already attained, let us walk by the same rule, let us mind the same things.</hi>
+            </p>
+            <p n="7">(7.) We must put as favourable a con<g ref="char:EOLhyphen"/>struction upon things and judge as charitably of all men as they are capable of. It is high<g ref="char:EOLhyphen"/>ly fit and very reasonable we should do thus, and it is but the measure which we all ex<g ref="char:EOLhyphen"/>pect from other men. It is no great mat<g ref="char:EOLhyphen"/>ter if by practising this rule we should mis<g ref="char:EOLhyphen"/>take. An Error here would be of the safer side. We were better be mistaken in our charity than forfeit it. Our Religion forbids us to speak evil of any man, and charity will not allow us to think any. We must not judge as we would escape being judged. It is very dangerous for us to mistake through want of Charity.
+<note place="margin">
+                  <hi>Jam.</hi> 3.14.</note>
+               <hi>If ye have bitter Envying and Strife in your hearts, glory not, and lie not against the truth. This wisdom descendeth not from above, but is earthly, sensual, devilish.</hi>
+            </p>
+            <p n="8">(8) We must be careful that we give no offence to our weak Brother in things that are indifferent and indetermined. It is the Apostles rule. <hi>For meat destroy not the work of God: All things indeed are pure but it is evil for that man who eateth with offence.
+<note place="margin">
+                     <hi>Rom.</hi> 14.20, 21.</note> It is good neither to eat Flesh nor to drink Wine, nor any thing whereby thy Brother stumbleth, or is
+<pb n="17" facs="tcp:104198:11"/>offended, or is made weak.</hi> Again, <hi>if meat make my brother to offend,
+<note place="margin">1 <hi>Cor.</hi> 8.13.</note> I will eat no Flesh while the World standeth, lest I make my Brother to offend.</hi>
+            </p>
+            <p>
+               <hi>We that are strong ought to bear the infirmities of the weak, and not to please our selves.
+<note place="margin">
+                     <hi>Rom.</hi> 15.1.</note> Let eve<g ref="char:EOLhyphen"/>ry one of us please his neighbour for his good to Edification: For even Christ pleased not himself.</hi>
+            </p>
+            <p>We ought to have respect to other men in the use of our own liberty. It is not enough that we consider what is Lawful, but we must consider also what is expedient and fit. Christian Charity will teach us to please our Brother with the loss of our own ease and freedom: We shall be well content to deny our selves for the benefit of other men; And as much as Lawfully we may to be<g ref="char:EOLhyphen"/>come all things to all that we may gain some: I grant that the matter of scandal hath been misunderstood; and I know that in things of their own nature indifferent, I am obliged to obedience by the determination of my Lawful Superiours. But still where I am at liberty, it will become me to comply with the weakness of my Brother if I may by any means win him to the truth.</p>
+            <p n="9">(9.) Let us often sit down and consider how great mercies we enjoy, and with all thankfulness bless the Holy name of God.
+<pb n="18" facs="tcp:104198:12"/>This Method will divert our complaints in<g ref="char:EOLhyphen"/>to praises, and greatly tend to the peace of the Church. We complain even then when we have great cause to call up all that is within us to bless the name of God. We are wanton and hard to be pleased, and murmur and con<g ref="char:EOLhyphen"/>tend when we have great cause to bless God.</p>
+            <p>Let us think how it was with the first and best Christians, when it was death to profess Christianity, and they who professed it must offer incense to an Idol, or undergo the se<g ref="char:EOLhyphen"/>verest torments which the wit or malice of their Enemies would expose them to. And let us consider the condition of our Bre<g ref="char:EOLhyphen"/>thren in <hi>France,</hi> who are for conscience sake forced out of their Native Country; but (Blessed be God) it is not so with us; we may securely profess and practise Christianity and lead much better lives than we do, without offending any Edict or Law of the Land: And tho silly People may scoff at us for being Religious, yet this does not break our bones, nor need it make us uneasy.</p>
+            <p>The time was when our Fore-Fathers had but a sad choice, either to profess the beleif of a lie or burn at a Stake; when they were not allowed the use of the Holy Scriptures, and when the service of God was performed
+<pb n="19" facs="tcp:104198:12"/>in a strange tongue. How glad would those holy Martyrs have been of these mercies which we despise and turn our backs upon; and where we murmur those holy Souls would have given great thanks.</p>
+            <p>It would once have cost us dear to have professed Christianity. Thanks be to God we may safely practise it now.</p>
+            <p>We now enjoy our Bibles with many other helps to our devotion: We have the liberty of Gods house and cannot want in<g ref="char:EOLhyphen"/>struction if we will but entertain it, we may serve God in publick frequently, and in our houses and closets, as devoutly as we will. We enjoy great advantages of becoming better than we are. And what great ingratitude is it to over-look such unspeakable mercies of God!</p>
+            <p>We provoke God to deprive us of our blessings. And when we are deprived we shall call to mind how happy we once were. God grant this may not be our portion. And that while we murmur for what we want we be not stripped of what we do enjoy.</p>
+            <p>The Manna lyes round about our tents and we loath it and would have higher food: God grant that we be not plagued with cleanness of teeth, or biting Ser<g ref="char:EOLhyphen"/>pents; and that for despising our heavenly
+<pb n="20" facs="tcp:104198:13"/>food we be not reduced to the Onyons and garlick, and bondage of <hi>Egypt.</hi> The days may come when we shall in vain call back the blessings which we now despise, when we that are impatient under the Whip may be chastised with Scorpions and fall under. Axes. It becomes us much better to improve what we do enjoy, than contend unchristianly for what we passionately desire.</p>
+            <p>
+               <hi>Philo</hi> the <hi>Jew</hi> tells of an Ancient tradition which vvas handed dovvn among the <hi>Jews</hi> to his time,
+<note place="margin">
+                  <hi>Philo de plan<g ref="char:EOLhyphen"/>tat. Noe.</hi>
+               </note> and it is this; that vvhen God had finished the Creation of the World, He asked one of his Prophets, vvhether he thought there vvere any thing vvanting in Heaven or in Earth: The Prophet returned an ansvver, vvith vvhich God vvas vvell pleased, <hi>viz.</hi> that there vvas nothing vvant<g ref="char:EOLhyphen"/>ing but <hi>Some to praise and Celebrate the great Creator,</hi> upon vvhich arose <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a number of Creatures chanting out the praises of the great Creator:
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> From hence <hi>Philo</hi> infers that as <hi>it is most agreeable to the Supreme Being to do good, so nothing becomes the Creature better than to Celebrate the Crea<g ref="char:EOLhyphen"/>tors benefactions.</hi> If there be any thing vvanting among us there is nothing more visibly so than thankfulness to God for the great blessings vvhich vve enjoy.</p>
+            <p n="10">
+               <pb n="21" facs="tcp:104198:13"/> (10.) Let us put up our fervent prayers to God for the peace of the Church and State: To God who maketh men to be of one mind and who is able to unite the hearts of those who stand at distance and defiance against each other: To God who is the God of Peace, and Unity and Love. Let us lift up our wearied hearts and eyes to him, and ne<g ref="char:EOLhyphen"/>ver give him rest till he make our <hi>Jerusalem</hi> the praise of the whole Earth.</p>
+            <p>I shall now represent to you some of the advantages of peace and Unity and its ten<g ref="char:EOLhyphen"/>dency toward our happiness.
+<note place="margin">II.</note>
+            </p>
+            <p>Peace is so great a blessing that the Ancient <hi>Jews</hi> were wont by it to express all manner of good, and the sum of all that happiness which we are capable of. And the Heavenly host upon the Birth of the Messias, the great Prince of peace, proclaimed <hi>peace on Earth.</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 2.14.</note>
+            </p>
+            <p>We may guess how much Peace and Unity tend to make us happy if we consider the mischiefs of strife and contention.
+<note place="margin">
+                  <hi>Jam.</hi> 3.16.</note>
+               <hi>Where Envying and strife is there is confusion and every evil work.</hi>
+            </p>
+            <p>Who can express the mischiefs of Quarrels and civil Wars? How much these tend to the debauching of a Nation, and the abolishing of Justice, and perverting of righteousness?
+<pb n="22" facs="tcp:104198:14"/>These are attended with the death of many innocent men, and the ruin of the most prosperous Families, and many more Evils than the time will allow me to reckon up.</p>
+            <p>And for divisions in the Church, and un<g ref="char:EOLhyphen"/>due quarrels about matters relating to Reli<g ref="char:EOLhyphen"/>gion, the experience of all ages declare the mischievous effects of them. These have de<g ref="char:EOLhyphen"/>stroyed all good Order and Discipline, and have unhappily made void the excellent pur<g ref="char:EOLhyphen"/>poses of the Christian Doctrine. These con<g ref="char:EOLhyphen"/>tentions have commenced upon a mistake, advanced with a bitter and unholy Zeal and have ended with the loss of Charity: We quarrel first, and then we hate one another, then we separate, and when we are strong enough we persecute each other. The Church of Christ is rent and torn into many pieces and becomes an Akeldama, a field of blood. And while we quarrel the Devil gains his end, and the design of our holy Religion is defea<g ref="char:EOLhyphen"/>ted, and we neither enter into the Kingdom of Heaven, nor do we suffer others to enter in.</p>
+            <p>And now we call our wrath by the name of Zeal, we hallow our unjust actions and irre<g ref="char:EOLhyphen"/>gular heats, and we contend no longer for truth but victory; and design the ruine, not
+<pb n="23" facs="tcp:104198:14"/>the good of one another. We neglect the great things of Religion and are bent upon the devouring of one another.</p>
+            <p>These contentions have done more mischief than all the persecutions put together: More have fallen, and more dangerously this way, than by the swords of Tyrants and the avow<g ref="char:EOLhyphen"/>ed Enemies of our Religion.</p>
+            <p>On the other hand Peace and Unity hath given us the advantage of waiting upon God without distraction: It strengthens us against a common Enemy and commends our Ho<g ref="char:EOLhyphen"/>ly Religion to those who are strangers to it. It abates from the care and burden of our Superiours and secures our rights and pro<g ref="char:EOLhyphen"/>perties. It is at once our glory and our de<g ref="char:EOLhyphen"/>fence, and the summary of all the blessings of this lower World. It gives us the advantage of discerning the truth and doing righteousness: It encourages all worthy and useful under<g ref="char:EOLhyphen"/>takings, and makes us formidable to those who wish us evil. But I shall not need to en<g ref="char:EOLhyphen"/>large upon that which is so evident and plain: And therefore I shall proceed to</p>
+            <p>The use and Application of what hath been said in the following particulars.
+<note place="margin">III.</note>
+            </p>
+            <p>First, It is evident from what hath been said that our irregular heats and disputes are
+<pb n="24" facs="tcp:104198:15"/>to be imputed to our lusts. It is not our Re<g ref="char:EOLhyphen"/>ligion but they are our unsubdued lusts which have disturbed the peace of the Church and State. We quarrel indeed, and pretend Re<g ref="char:EOLhyphen"/>ligion, but it is not that which ferments and divides us. Religion gives no trouble to the World: It is a peaceable Institution, and is designed to promote peace and good vvill a<g ref="char:EOLhyphen"/>mong Mankind. The Church and State vvould soon be at peace vvould vve but sub<g ref="char:EOLhyphen"/>due our lusts and bridle our Tongues, and govern our selves by the Holy Precepts of our Religion.</p>
+            <p>It is indeed very possible, after all this, that the best men may differ from each other: But then their Chistian Charity vvill dispose them to forbear and forgive, and to debate vvith great calmness and temper, vvhich is the vvay at once to Truth and Peace.</p>
+            <p>It is unjust to charge our Religion vvith our heats and feuds. It is so far from being guilty that a great part of its design is to make men humble and modest, charitable and meek, and greatly disposed to forbear and forgive one another.
+<note place="margin">
+                  <hi>Jam.</hi> 3.17.18.</note>
+               <hi>The wisdom that is from above is first pure, then peaceable, gentle and easie to be in<g ref="char:EOLhyphen"/>treated, full of mercy and good fruits, without par<g ref="char:EOLhyphen"/>tiality, and without hypocrisie. And the fruit of
+<pb n="25" facs="tcp:104198:15"/>righteousness is sown in peace, of them that make peace.</hi>
+            </p>
+            <p>We do indeed fiercely contend with each other, but it is because we want charity: We neglect that <hi>plain</hi> duty whilst we are fond of some opinion of our own, which is often <hi>false,</hi> and at best but <hi>doubtful.</hi>
+            </p>
+            <p>Our Religion is not unfurnished with plain rules and precepts (which if obeyed, would be very effectual) tending to preserve and restore peace, and very many powerful motives also to engage us to the practice of these Divine precepts. If we would on all sides give up our selves to the practice of our Holy Religion, our intemperate heats and quarrels would presently be at an end. A Careful study of Charity and Humility, and an Heavenly conversation; The care of governing our tongues and affections, and conforming our selves to the excellent, and very plain rule of the Holy Scriptures would soon establish peace among us.</p>
+            <p>Secondly, This may serve for the reproof of those among us who by their profligate lives, and their intemperate speeches, their
+<pb n="26" facs="tcp:104198:16"/>rash censuring and notorious uncharitable<g ref="char:EOLhyphen"/>ness lay a foundation for new quarrels and contentions. These are the men that trou<g ref="char:EOLhyphen"/>ble the World. We are not like to <hi>see good days</hi> when we run counter to St. <hi>Peters</hi> ad<g ref="char:EOLhyphen"/>vice here; For whereas he puts us upon re<g ref="char:EOLhyphen"/>fraining our tongues, upon eschewing evil and upon doing good, upon seeking peace and ensuing it; We take another method, We detract and Calumniate, revile and reproach one another, and even dig<g ref="char:EOLhyphen"/>nities and Magistrates do not escape us. We eschew good and do evil, and in stead of seeking peace and ensuing it, we run from it and seem to be resolved to drive it away.</p>
+            <p>Let these men pretend what they will, either for or against the Church, yet are these the men who ruffle and disturbe the qui<g ref="char:EOLhyphen"/>et both of Church and State. They are the pests of human society, and the greatest Ene<g ref="char:EOLhyphen"/>mies which the Government hath, however they buoy themselves up in their follies un<g ref="char:EOLhyphen"/>der plausible pretences and professions of bet<g ref="char:EOLhyphen"/>ter things. If we must indeed give an ac<g ref="char:EOLhyphen"/>count hereafter of every <hi>idle word,</hi> what a sad account will they have to give who spend great portions of their precious time in speak<g ref="char:EOLhyphen"/>ing
+<pb n="27" facs="tcp:104198:16"/>Evil of Dignities and of one another. Who lightly report and spread false News, and defame and reproach those men that chance either to differ from them, or at least do not hold pace with them in their extra<g ref="char:EOLhyphen"/>vagant heats and indecencies.</p>
+            <p>I do not reflect upon the faults and mis<g ref="char:EOLhyphen"/>carriages of one side only. We are all of us too guilty, and have reason to share the reproof among our selves.</p>
+            <q>
+               <l>Iliacos intra muros peccatur &amp; extra.</l>
+            </q>
+            <p>Thirdly, Let me exhort you all to com<g ref="char:EOLhyphen"/>ply with my text, <hi>To seek peace and ensue it.</hi>
+            </p>
+            <p>Such an exhortation cannot be thought unseasonable at this time when our heats are so extream that we seem to have forgot<g ref="char:EOLhyphen"/>ten the obligation which our excellent Religi<g ref="char:EOLhyphen"/>on, and our profession lay upon us of seeking and ensuing peace.</p>
+            <p>It will stand us greatly in hand to do what ever we can in our several places and callings toward so good an end. I have laid down some rules to this purpose, and shall not need
+<pb n="28" facs="tcp:104198:17"/>to add to them now. I only begg, and be<g ref="char:EOLhyphen"/>seech, and exhort you in the Lord, that you would forthwith set your selves upon the practice of those rules. That you would all in your several places study to be quiet: And <hi>if it be possible,</hi> which perhaps sometimes it will not be, yet still <hi>as much as lies in us live peaceably with all men.</hi>
+            </p>
+            <p>I cannot, when I consider our present heats and animosities, but be earnest with you to this purpose: I remember well I have somewhere met with a saying, among the Ancients, of our Blessed Saviours, that was received by Tradition tho it be not men<g ref="char:EOLhyphen"/>tioned by the Evangelists, viz. <hi>that we should not be at rest while we saw his follow<g ref="char:EOLhyphen"/>ers contending with one another.</hi> This may excuse my importunity.</p>
+            <p>Refuse not I beseech you this seasonable exhortation: And not do think you comply with it, unless you vigorously set upon the practice of this excellent duty: That you patiently hear it is not sufficient, it is high time to be doing something tending to so good an end.</p>
+            <pb n="29" facs="tcp:104198:17"/>
+            <p> Methinks we should be moved by the ex<g ref="char:EOLhyphen"/>perience of former times. <hi>How great a mat<g ref="char:EOLhyphen"/>ter hath a little fire kindled?</hi> What woful devastations have intestine quarrels brought upon the world? And where the first ground of the quarrel hath been small the effects have been unspeakably sad. The several sects, and the quarrels of the <hi>Jews</hi> among them<g ref="char:EOLhyphen"/>selves, and the fury of their Zealots were but a prologue to their miserable destruction: The increase of the <hi>Ottoman</hi> power in this part of the World, and the ruin of the <hi>Greek</hi> Church was ushered in and procured by the quarels of Christians among themselves: Truth it self hath said, and the experience of all ages hath confirmed it,
+<note place="margin">
+                  <hi>Matt.</hi> 12.25.</note> that <hi>a Kingdom divided against it self</hi> is <hi>brought to desolation.</hi> We have had sad and woful experience of the mischiefs of an unnatural War; and to this day we groan under the Evils which sprung from it. Why should we be fond of de<g ref="char:EOLhyphen"/>stroying ourselves, and making our selves the Scorn and Contempt of future ages? Is it for want of Enemies abroad that we turn our sharps upon one another?</p>
+            <p>Do we not all justly fear our common Ene<g ref="char:EOLhyphen"/>my who hath been always ready to devour
+<pb n="30" facs="tcp:104198:18"/>us? Shall we under our fears of Popery open a door with our own hands to let it in? Shall we disparage our happy reformation by our evil lives and unquiet tempers? Is our <hi>Syra<g ref="char:EOLhyphen"/>cuse</hi> besieged while we are busie in making di<g ref="char:EOLhyphen"/>agrams, or contending with one another within our gates? We are too much like the <hi>Jews</hi> (God grant we may not be like them in our fall) <hi>If we let him alone,</hi> say they of Christ,
+<note place="margin">
+                  <hi>Joh.</hi> 11.48.</note>
+               <hi>The Romans shall come and take our place and Nation.</hi> Whereas their putting our Lord to death brought the <hi>Romans</hi> upon them. Thus was their carnal policy defeated, and when they pretended to keep off the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> they took that very course which brought the <hi>Romans</hi> upon them who did in<g ref="char:EOLhyphen"/>deed <hi>take their place and their Nation.</hi> We do the very same thing: We declaim against and make way for our Enemies at the same time. By our depraved lives, our intestine divisions, and needless separations we advance the interest and encourage the hopes of our Common Enemy. <hi>Dum singuli pugnant uni<g ref="char:EOLhyphen"/>versi vincuntur.</hi> We are doing our Enemies work to their hand, and are like to be all van<g ref="char:EOLhyphen"/>quished when every one is striving for victo<g ref="char:EOLhyphen"/>ry. I fear what the <hi>Jews</hi> are wont to say of a drunken man, <hi>that one shall not need to throw
+<pb n="31" facs="tcp:104198:18"/>him down, he will fall of himself,</hi> will be our Case. When the Frog and and the Mouse in the fa<g ref="char:EOLhyphen"/>ble were contending for Empire, the bird of Prey came upon them and destroyed them both. God grant that it be not our Lot that when we quarrel with one another the Com<g ref="char:EOLhyphen"/>mon Enemy do not devour us all.</p>
+            <p>But what words shall I make use of to per<g ref="char:EOLhyphen"/>swade you to Unity and Concord!</p>
+            <p>I cannot forbear to tell you that it is your interest as well as your duty to seek peace and ensue it. This is a powerful argument in other cases, and does not use to fail: Me<g ref="char:EOLhyphen"/>thinks for your <hi>own sakes</hi> you may be prevail<g ref="char:EOLhyphen"/>ed with. As you would have the comforts of this world and the blessings of the next follow after peace. Leave no me<g ref="char:EOLhyphen"/>thod unattempted to procure and preserve it. You are sure of nothing unless you secure peace: All your other blessings are either involved in this, or the best se<g ref="char:EOLhyphen"/>cured by it.</p>
+            <p>I might exhort you to it for your <hi>Bre<g ref="char:EOLhyphen"/>threns sake</hi> also: But it is not likely that men should be prevailed with to do that
+<pb n="32" facs="tcp:104198:19"/>for the sake of others which they will not do for their own: We ought how<g ref="char:EOLhyphen"/>ever to consult the interest and advantage of others as well as our own. As we tender their Spiritual good and welfare, and their waiting upon God without dis<g ref="char:EOLhyphen"/>traction: As we would that our Children after us should be happy here and here<g ref="char:EOLhyphen"/>after: As we have any reverence for our just Superiors: Any bowels of Compas<g ref="char:EOLhyphen"/>sion for our native Country, or for our friends and relatives, let us ensue peace and do all we can, and pray to him who can do more than we can hope, that it may continue among us, and that the in<g ref="char:EOLhyphen"/>numerable mischiefs of war and discord may be prevented.</p>
+            <p>Lastly, I pray and beseech you for the Lords sake also. For his sake who hath Commanded it and annexed a great bles<g ref="char:EOLhyphen"/>sing to them who make peace: For his sake who came to restore it to the World; who is the great Mediator, and came to reconcile us to God, and to one another. For his sake who is the God of peace; For His who is the Prince of peace; for the sake of that Holy Religion which is the great instrument of peace.</p>
+            <pb n="33" facs="tcp:104198:19"/>
+            <p> I beseech you by the mercies of God, and by the sufferings of our Lord Jesus Christ, by the Comforts of the Holy Ghost, by every thing that is Sacred and Holy, that is Virtuous and Good.</p>
+            <p>
+               <hi>Let all bitterness and wrath,
+<note place="margin">
+                     <hi>Ephes.</hi> 4.31.32.</note> anger and cla<g ref="char:EOLhyphen"/>mor and evil speaking be put away from you, with all malice. And be ye kind one to another, tender hearted, forgiving one ano<g ref="char:EOLhyphen"/>ther, even as God for Christs sake hath for<g ref="char:EOLhyphen"/>given you.</hi>
+            </p>
+            <p>Let that love which moved Christ to die for his Enemies so far prevail with you as to put you upon living peace<g ref="char:EOLhyphen"/>ably with your fellow Christians.</p>
+            <p>Often place before your eyes the exam<g ref="char:EOLhyphen"/>ple of your Lord, the great Peace-maker of the world: He purchased Peace with the price of his blood, bequeathed it to us as the greatest blessing, and hath strict<g ref="char:EOLhyphen"/>ly obliged all his followers to Love and Peace.</p>
+            <p>Let me bespeak you in the words of the Apostle.
+<note place="margin">
+                  <hi>Eph.</hi> 4.1.</note>
+               <hi>I beseech you that ye walk worthy
+<pb n="34" facs="tcp:104198:20"/>of the vocation wherewith ye are called, with all lowliness and meekness, with long-suffering, forbearing one another in love. Endeavouring to keep the unity of the Spirit in the bond of peace.</hi>
+            </p>
+            <p>In the next words follow very power<g ref="char:EOLhyphen"/>ful motives to perswade us to this, and we are very deaf and stupid if we are not by them charmed into Unity and Peace.</p>
+            <p>
+               <hi>There is one Body and one Spirit, even as ye are called in one hope of your calling: One Lord, One Faith, One Baptism; One God and Father of all, who is above all, and through all, and in you all.</hi>
+            </p>
+            <p>I shall end all with the words of the same Apostle. <hi>Now the God of patience and consolation grant you to be like minded one towards another according to (or,
+<note place="margin">
+                     <hi>Rom.</hi> 15.5, 6.</note> after the example of) Christ Jesus. That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104198:20"/>
+            <head>Books Printed for <hi>Walter Kettilby</hi> at the <hi>Bishop's Head</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>Mr. <hi>Kidder</hi>'s Discourse of Christian Fortitude. Octavo.</item>
+               <item>
+                  <hi>Fowler</hi>'s <hi>Libertas Evengelica.</hi> Octavo.</item>
+               <item>Mr. <hi>Scots</hi> Christian Life. Octavo.</item>
+               <item>Dr. <hi>Worthington</hi>'s great Duty of Self-Resignation. Octavo.</item>
+               <item>Dr. <hi>Smith</hi>'s Pourtraict of Old Age. Octavo.</item>
+               <item>Mr. <hi>Allen</hi>'s Discourse of Divine Assistance. Octavo.</item>
+               <item>—Christian Justification stated. Octavo.</item>
+               <item>—Against <hi>Ferguson;</hi> of Justification. Octavo.</item>
+               <item>—Perswasive to Peace and Unity. With a large Preface. Octavo.</item>
+               <item>—Preface to the Perswasive. Alone. Octavo.</item>
+               <item>—Against the Quakers. Octavo.</item>
+               <item>—Mystery of Iniquity unfolded against the Papists. Octavo.</item>
+               <item>—Serious and Friendly Address to the Nonconformists. Octavo.</item>
+               <item>—Practical Discourse of Humility. Octavo.</item>
+               <item>Dr. <hi>Hicks</hi>'s Sermon at the Act at <hi>Oxford.</hi> Quarto.</item>
+               <item>—Before the Lord Mayor. <hi>Peculium Dei.</hi> Quarto.</item>
+               <item>—Notion of Persecution. Quarto.</item>
+               <item>Dr. <hi>Sharp</hi>'s Sermon before the Lord Mayor. Quarto.</item>
+               <item>—Sermon at the <hi>Spittle,</hi> and <hi>York-shire</hi> Feast. Quarto.</item>
+               <item>—Sermon before the House of Commons. <hi>April</hi> 11. 1679.</item>
+               <item>—At the Election of the Lord Mayor. 1680.</item>
+               <item>—Two Sermons, on the <hi>3d.</hi> of <hi>May,</hi> and <hi>29th.</hi> of <hi>May.</hi>
+               </item>
+               <item>Dr. <hi>Throp</hi>'s Sermon before the Lord Mayor. Quarto.</item>
+               <item>Dr. <hi>Woodrof</hi>'s Sermon before the Lord Mayor. Quarto.</item>
+               <item>Mr. <hi>Williams</hi>'s Sermon before the Lord Mayor. Quarto.</item>
+               <item>Mr. <hi>Lynford's</hi> Sermon. Quarto.</item>
+               <item>Mr. <hi>Bryan Turner</hi>'s Sermon. <hi>Testimonium Jesu.</hi> Quarto.</item>
+               <item>Mr. <hi>John Turner</hi>'s Sermon of Transubstantiation. Quarto.</item>
+               <item>Dr. <hi>Butler</hi>'s Sermon before the King at <hi>Windsor.</hi>
+               </item>
+               <item>Mr. <hi>Lamb</hi>'s Sermon before the King at <hi>Windsor.</hi>
+               </item>
+               <item>Mr. <hi>Brown</hi>'s Visitation Sermon. Quarto.</item>
+               <item>Dr. <hi>Fowler</hi>'s Sermon at the Assizes at <hi>Gloucester.</hi> Quarto.</item>
+               <item>Mr. <hi>Cutlove</hi>'s two Assize Sermons at St. <hi>Edmunds-Bury.</hi> Quarto.</item>
+               <item>Mr. <hi>Inet</hi>'s Sermon at the Assizes at <hi>Warwick.</hi> Quarto.</item>
+               <item>Mr. <hi>Edward Sermon</hi>'s Sermon before the Lord Mayor.</item>
+               <item>Mr. <hi>Resbury</hi>'s Sermon before the Charter-House Scholars. Quarto.</item>
+               <item>—Sermon at the Funeral of Sir <hi>Allen Broderick.</hi>
+               </item>
+               <item>Mr. <hi>Needham's</hi> six Sermons at <hi>Cambridge.</hi> Octavo.</item>
+               <item>Mr. <hi>Hallywel</hi>'s Discourse of the Excellency of Christianity. Octavo.</item>
+               <item>Mr. <hi>Tho. Smith</hi>'s Sermon concerning the Doctrine, Unity, and Profession of the Christian Faith. Preached before the University of <hi>Oxford.</hi> With an Appendix concerning the Apostles Croed. Quarto. 1682.</item>
+               <item>Mr. <hi>Lamb</hi>'s Sermon before the Lord Mayor, <hi>Feb.</hi> 5. 1682.</item>
+               <item>Prosecution no Prosecution: Or, the difference between suffering for Diso<g ref="char:EOLhyphen"/>bedience and Faction, and suffering for Righteousness and Christs sake; truly discussed and stated. In a Sermon upon <hi>Phil.</hi> 1.29. preached at <hi>Bury</hi> St. <hi>Edmunds,</hi> on <hi>March</hi> 22. 1681. being the time of the Assizes held there. By <hi>Nath. Bisbii,</hi> D. D. Quarto. price 6 <hi>d.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
